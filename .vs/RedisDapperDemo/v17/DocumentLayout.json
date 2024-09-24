@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TestProject\\DaprStateManage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20DBF618-F309-4817-9687-C047C6BCD491}|RedisDapperDemo\\RedisDapperDemo.csproj|d:\\testproject\\daprstatemanage\\redisdapperdemo\\services\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20DBF618-F309-4817-9687-C047C6BCD491}|RedisDapperDemo\\RedisDapperDemo.csproj|solutionrelative:redisdapperdemo\\services\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20DBF618-F309-4817-9687-C047C6BCD491}|RedisDapperDemo\\RedisDapperDemo.csproj|d:\\testproject\\daprstatemanage\\redisdapperdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20DBF618-F309-4817-9687-C047C6BCD491}|RedisDapperDemo\\RedisDapperDemo.csproj|solutionrelative:redisdapperdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20DBF618-F309-4817-9687-C047C6BCD491}|RedisDapperDemo\\RedisDapperDemo.csproj|d:\\testproject\\daprstatemanage\\redisdapperdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{20DBF618-F309-4817-9687-C047C6BCD491}|RedisDapperDemo\\RedisDapperDemo.csproj|solutionrelative:redisdapperdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20DBF618-F309-4817-9687-C047C6BCD491}|RedisDapperDemo\\RedisDapperDemo.csproj|d:\\testproject\\daprstatemanage\\redisdapperdemo\\contacts\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20DBF618-F309-4817-9687-C047C6BCD491}|RedisDapperDemo\\RedisDapperDemo.csproj|solutionrelative:redisdapperdemo\\contacts\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20DBF618-F309-4817-9687-C047C6BCD491}|RedisDapperDemo\\RedisDapperDemo.csproj|d:\\testproject\\daprstatemanage\\redisdapperdemo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20DBF618-F309-4817-9687-C047C6BCD491}|RedisDapperDemo\\RedisDapperDemo.csproj|solutionrelative:redisdapperdemo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20DBF618-F309-4817-9687-C047C6BCD491}|RedisDapperDemo\\RedisDapperDemo.csproj|d:\\testproject\\daprstatemanage\\redisdapperdemo\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20DBF618-F309-4817-9687-C047C6BCD491}|RedisDapperDemo\\RedisDapperDemo.csproj|solutionrelative:redisdapperdemo\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 277,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICacheService.cs",
+              "DocumentMoniker": "D:\\TestProject\\DaprStateManage\\RedisDapperDemo\\Contacts\\ICacheService.cs",
+              "RelativeDocumentMoniker": "RedisDapperDemo\\Contacts\\ICacheService.cs",
+              "ToolTip": "D:\\TestProject\\DaprStateManage\\RedisDapperDemo\\Contacts\\ICacheService.cs",
+              "RelativeToolTip": "RedisDapperDemo\\Contacts\\ICacheService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T17:57:15.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CacheService.cs",
+              "DocumentMoniker": "D:\\TestProject\\DaprStateManage\\RedisDapperDemo\\Services\\CacheService.cs",
+              "RelativeDocumentMoniker": "RedisDapperDemo\\Services\\CacheService.cs",
+              "ToolTip": "D:\\TestProject\\DaprStateManage\\RedisDapperDemo\\Services\\CacheService.cs",
+              "RelativeToolTip": "RedisDapperDemo\\Services\\CacheService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwBgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T17:56:31.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TestProject\\DaprStateManage\\RedisDapperDemo\\Program.cs",
+              "RelativeDocumentMoniker": "RedisDapperDemo\\Program.cs",
+              "ToolTip": "D:\\TestProject\\DaprStateManage\\RedisDapperDemo\\Program.cs",
+              "RelativeToolTip": "RedisDapperDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T17:55:43.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\TestProject\\DaprStateManage\\RedisDapperDemo\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "RedisDapperDemo\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\TestProject\\DaprStateManage\\RedisDapperDemo\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "RedisDapperDemo\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwBYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T18:03:30.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\TestProject\\DaprStateManage\\RedisDapperDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "RedisDapperDemo\\appsettings.json",
+              "ToolTip": "D:\\TestProject\\DaprStateManage\\RedisDapperDemo\\appsettings.json",
+              "RelativeToolTip": "RedisDapperDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-23T18:08:36.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\TestProject\\DaprStateManage\\RedisDapperDemo\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "RedisDapperDemo\\Models\\Product.cs",
+              "ToolTip": "D:\\TestProject\\DaprStateManage\\RedisDapperDemo\\Models\\Product.cs",
+              "RelativeToolTip": "RedisDapperDemo\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T18:05:02.611Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
